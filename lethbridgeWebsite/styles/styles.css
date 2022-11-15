@@ -1,0 +1,139 @@
+@charset "utf-8";
+/* CSS Document */
+
+
+body .img-circle {
+	width: 125px;
+}
+
+body #top-row {
+	background-color: mediumturquoise;
+	padding-bottom: 10px;
+	padding-top: 10px;
+	padding-left: 10px;
+}
+
+body #high-level-bridge {
+	padding-top: 20px;
+	width: 100%;
+	height: 250px;
+	object-fit: cover;
+}
+
+body #dropdown-holder {
+	float: right;
+	padding-right: 20px;
+}
+
+body .img-thumbnail {
+	display: block;
+	float: left;
+}
+
+body #first-paragraph {
+	display: block;
+	margin-left: auto;
+	margin-right: auto;
+	width: 350px;
+	background-color: lightblue;
+	color: white;
+	padding: 20px;
+}
+
+body #second-paragraph {
+	display: block;
+	float: right;
+	width: 350px;
+	background-color: lightblue;
+	color: white;
+	padding: 20px;
+}
+
+#home {
+	background-color: paleturquoise;
+}
+
+#geography {
+	background-color: paleturquoise;
+}
+
+#community {
+	padding-top: 20px;
+	background-color: paleturquoise;
+}
+
+#economy {
+	padding-top: 20px;
+	background-color: paleturquoise;
+}
+
+#attractions {
+	padding-top: 20px;
+	padding-bottom: 50px;
+	background-color: paleturquoise;
+}
+
+#para1 {
+	display: block;
+	float: left;
+	width: 350px;
+	background-color: lightblue;
+	color: white;
+	padding: 20px;
+	text-align: center;
+}
+
+#para2 {
+	display: inline-block;
+	margin-left: 20%;
+	margin-right: auto;
+	width: 350px;
+	background-color: lightblue;
+	color: white;
+	padding: 20px;
+	text-align: center;
+}
+
+#para3 {
+	display: block;
+	width: 350px;
+	background-color: lightblue;
+	color: white;
+	padding: 20px;
+	text-align: center;
+	float: right;
+}
+
+#thumbnail {
+	width: 450px;
+}
+
+#float-right {
+	display: block;
+	float: right;
+	width: 250px;
+}
+
+#small-para {
+	block: inline-block;
+	width: 500px;
+	text-align: center;
+	margin-left: auto;
+	margin-right: auto;
+}
+
+#para2 p {
+	padding-bottom: 10px;
+	padding-top: 10px;
+}
+
+h2 {
+	color: white;
+	font-family: 'Montserrat', sans-serif;
+}
+
+p {
+	color: white;
+	font-size: 16px;
+	font-family: 'Poppins', sans-serif;
+}
